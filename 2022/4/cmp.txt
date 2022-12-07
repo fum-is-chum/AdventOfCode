@@ -1,0 +1,3 @@
+Comparing files a.txt and B.TXT
+FC: no differences encountered
+
