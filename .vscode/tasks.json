@@ -4,7 +4,11 @@
 		{
 			"type": "cppbuild",
 			"label": "C/C++: g++.exe build active file",
+<<<<<<< HEAD
 			"command": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe",
+=======
+			"command": "C:\\TDM-GCC-64\\bin\\g++.exe",
+>>>>>>> e70d9ebd90e186f9c5edf4f5359c6f750b66659c
 			"args": [
 				"-fdiagnostics-color=always",
 				"-g",
@@ -19,7 +23,11 @@
 				"$gcc"
 			],
 			"group": "build",
+<<<<<<< HEAD
 			"detail": "compiler: \"C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\""
+=======
+			"detail": "compiler: C:\\TDM-GCC-64\\bin\\g++.exe"
+>>>>>>> e70d9ebd90e186f9c5edf4f5359c6f750b66659c
 		}
 	]
 }

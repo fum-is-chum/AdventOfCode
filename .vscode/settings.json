@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "files.associations": {
     "utility": "cpp",
     "iostream": "cpp",
@@ -53,4 +54,10 @@
     "xtree": "cpp",
     "xutility": "cpp"
   }
+=======
+    "files.associations": {
+        "cmath": "cpp",
+        "iostream": "cpp"
+    }
+>>>>>>> e70d9ebd90e186f9c5edf4f5359c6f750b66659c
 }
